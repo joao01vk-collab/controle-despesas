@@ -1,0 +1,18 @@
+CONTROLE FÁCIL — PRIMEIRA VERSÃO
+
+O que tem:
+- Registro de entradas e despesas.
+- Categorias e formas de pagamento.
+- Resumo por mês.
+- Contas futuras e marcação como paga.
+- Compras no crédito divididas em parcelas mensais.
+- Edição e exclusão de movimentações.
+- Exportação e importação de backup JSON.
+- Layout adaptado para celular e suporte a PWA/offline após hospedagem HTTPS.
+
+IMPORTANTE:
+1. Os dados ficam no armazenamento local do navegador/aparelho. Não há conta, nuvem nem sincronização entre dispositivos nesta versão.
+2. Exporte backups regularmente.
+3. Para instalar como PWA, publique a pasta em um serviço HTTPS (por exemplo, hospedagem estática). Abra o endereço no Chrome do Android e use “Instalar app” ou “Adicionar à tela inicial”.
+4. Você também pode abrir index.html para testar algumas funções, mas a instalação e o funcionamento offline completo dependem de servir por HTTP/HTTPS.
+5. Esta é uma versão inicial; teste os registros e os cálculos antes de confiar nela para decisões financeiras.
